@@ -1,0 +1,1 @@
+FROM gitlab/gitlab-runner:alpine-v10.3.0

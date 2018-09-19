@@ -1,0 +1,1 @@
+FROM prom/pushgateway:v0.5.2
